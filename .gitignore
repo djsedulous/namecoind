@@ -1,0 +1,18 @@
+*.bak
+*.dll
+*.pyc
+.*.swp
+*.*~*
+namecoin-qt
+namecoin-qt.exe
+src/namecoind
+src/namecoind.exe
+
+# Stuff created by the Qt build system.
+qrc_bitcoin.cpp
+build
+debug
+release
+/Makefile
+*.Debug
+*.Release
